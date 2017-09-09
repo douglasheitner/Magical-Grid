@@ -1,5 +1,5 @@
 # Magic Grid
 
-This project displays the animation of view in a grid of squares,
+This project displays the animation of views in a grid of squares covering the entire screen.
 
-![Magic-Grid](Screenshots/magic-grid.gif)
+![Magic-Grid](Screenshots/magic-grid.gif =560x960)
